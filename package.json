@@ -15,9 +15,13 @@
   },
   "dependencies": {
     "@rails/webpacker": "^3.0.2",
+    "bootstrap": "^3.3.7",
+    "history": "^4.7.2",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react-dom": "^16.0.0",
+    "react-router": "^4.2.0",
+    "react-wood-duck": "^0.1.33"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
